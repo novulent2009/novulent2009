@@ -6,5 +6,5 @@
 <p align="center">
   <img src="./devcond_pindown.io_1790435760.png" width="200">
   <p align="center">
-    <img src="./mistersniffles_pindown.io_1790436548.png" width="200>
+    <img src="./mistersniffles_pindown.io_1790436548.png" width="200">
 </p>
